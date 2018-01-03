@@ -1,4 +1,4 @@
-## Rapid7 Documentation Style Guide
+## Rapid7 Docs Style Guide
 
 You can use the [editor on GitHub](https://github.com/tdoan-r7/docs-style-guide.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
